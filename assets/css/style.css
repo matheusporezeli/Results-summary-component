@@ -1,3 +1,5 @@
+@import url(/assets/css/resultado.css);
+
 :root {
     /*CORES DAS FONTES*/
     --branco: #ffffff;
@@ -13,17 +15,40 @@
     --bgcircke-azul: hsla(241, 72%, 46%, 0);
 }
 
+html {
+    height: 100%;
+    min-height: 100%;
+}
+
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     box-sizing: border-box;
     font-family: 'Hanken Grotesk';
     font-size: 18px;
     font-weight: 500;
     padding: 100px 200px;
+    min-height: 100%;
 }
 
 main {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    width: 800px;
+    height: 550px;
+    gap: 3rem;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px #f0f0f0;
 }
+
+footer {
+    margin-top: auto;
+}
+
+
+
+

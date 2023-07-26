@@ -1,0 +1,51 @@
+.resultado {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 45%;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-image: linear-gradient(
+    to top, var(--bgcard-azul), var(--bgcard-roxo));
+}
+
+.resultado_titulo {
+  color: #d1c7ff;
+  font-size: 2rem;
+}
+
+.resultado_valores {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  width: 200px;
+  height: 200px;
+  border: none;
+  border-radius: 100%;
+  background-image: linear-gradient(
+    to top, var(--bgcircke-azul), var(--bgcircle-violeta));
+}
+
+.resultado_pontos {
+  font-size: 4rem;
+  color: var(--branco);
+  font-weight: 800;
+}
+
+.resultado_100,
+.resultado_descricao {
+  color: #d1c7ff;
+}
+
+.resultado_score {
+  font-size: 2rem;
+  color: var(--branco);
+  font-weight: 700;
+}
