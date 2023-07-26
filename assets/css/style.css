@@ -1,0 +1,29 @@
+:root {
+    /*CORES DAS FONTES*/
+    --branco: #ffffff;
+    --reaction: hsl(0, 100%, 67%);
+    --memory: hsl(39, 100%, 56%);
+    --verbal: hsl(166, 100%, 37%);
+    --visual: hsl(234, 85%, 45%);
+
+    /*GRADIENTES*/
+    --bgcard-roxo: hsl(252, 100%, 67%);
+    --bgcard-azul: hsl(241, 81%, 54%);
+    --bgcircle-violeta: hsla(256, 72%, 46%, 1);
+    --bgcircke-azul: hsla(241, 72%, 46%, 0);
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Hanken Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+    padding: 100px 200px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
