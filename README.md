@@ -8,7 +8,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **CARD DE RESULTADOS**
 | :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-| :rocket: URL         | [Projeto](https:/#)
+| :rocket: URL         | [Projeto](https://results-summary-component-rho-flax.vercel.app)
 | :fire: Desafio     | [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
 
