@@ -20,7 +20,7 @@ O desafio é construir esse componente de resumo de resultados e aproximá-lo o 
 
 ### Desktop / Tablet:
 
-![Desktop](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/a3477ca9-5be3-405b-8640-7f7587082b39)
+![Desktop](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/a3477ca9-5be3-405b-8640-7f7587082b39#vitrinedev)
 
 ### Mobile:
 
