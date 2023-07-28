@@ -21,6 +21,9 @@
 html {
     height: 100%;
     min-height: 100%;
+    font-family: 'Hanken Grotesk';
+    font-size: 18px;
+    font-weight: 500;
 }
 
 body {
@@ -29,9 +32,6 @@ body {
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
-    font-family: 'Hanken Grotesk';
-    font-size: 18px;
-    font-weight: 500;
     padding: 100px 200px;
     min-height: 100%;
     gap: 3rem;
@@ -49,22 +49,6 @@ main {
     box-shadow: 10px 10px 10px #f0f0f0;
 }
 
-/* footer {
-    margin-top: auto;
+footer {
+    text-align: center;
 }
-
-@media (max-width: 425px) {
-    body{
-        padding: 5px 10px;
-    }
-
-    main {
-        flex-direction: column;
-        justify-content: center;
-        width: 95%;
-    }
-
-    footer {
-        margin-top: 50%;
-    }
-} */
