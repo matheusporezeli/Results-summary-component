@@ -17,7 +17,15 @@
 O desafio é construir esse componente de resumo de resultados e aproximá-lo o máximo possível do design.
 
 # 📸Images
-![Resultado Parcial](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/a3477ca9-5be3-405b-8640-7f7587082b39)
+
+### Desktop / Tablet:
+
+![Desktop](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/a3477ca9-5be3-405b-8640-7f7587082b39)
+
+### Mobile:
+
+![Mobile](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/71aec237-a1b5-444b-9a54-93564a04e52f)
+
 
 
 ## Desenvolvimento do projeto
@@ -25,7 +33,8 @@ O desafio é construir esse componente de resumo de resultados e aproximá-lo o 
 Por enquanto estou fazendo com html e css puros mas pretendo refatorar com javascript posteriormente.
 
 A primeira parte que fiz foi o sessão que apresenta o resultado geral, que buscar focar ao máximo pra ficar parecido com o proposta, pois não tinha acesso ao figma, apenas acesso a paleta de cores. <br>
-Segunda parte completa e fiz a sessão que apresenta os resultados por categoria, aplicando a coloração correta assim como o background da mesma cor que o texto porém com transparência.
+Segunda parte completa e fiz a sessão que apresenta os resultados por categoria, aplicando a coloração correta assim como o background da mesma cor que o texto porém com transparência. <br>
+Por fim fiz a responsividade da página ajustando os principais elementos para o mobile.
 
 ## Desafios encontrados
 
