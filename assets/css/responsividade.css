@@ -6,7 +6,7 @@
 
     body {
         padding: 0;
-        margin-top: 0;
+        min-height: 0;
     }
 
     main {
