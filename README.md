@@ -29,4 +29,4 @@ Segunda parte completa e fiz a sessão que apresenta os resultados por categoria
 
 ## Desafios encontrados
 
-Utilizar a propriedade linear-gradient, aplicar o background das categorias utilizando cores no oadrão hsla.
+Utilizar a propriedade linear-gradient, aplicar o background das categorias utilizando cores com a função hsla.
