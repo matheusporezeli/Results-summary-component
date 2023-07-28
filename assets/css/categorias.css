@@ -1,0 +1,87 @@
+.categorias {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+  width: 45%;
+  height: 100%;
+}
+
+.categorias_titulo {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.card {
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.esquerda,
+.direita {
+  display: flex;
+  flex-direction: row;
+  gap: 0.7rem;
+}
+
+.card_categoria,
+.card_resultado,
+.card_100 {
+  font-weight: 700;
+}
+
+.card_100 {
+  color: #757575;
+}
+
+.card_reaction {
+  background: var(--bgreaction);
+}
+
+.categ_reaction {
+  color: var(--reaction);
+}
+
+.card_memory {
+  background: var(--bgmemory);
+}
+
+.categ_memory {
+  color: var(--memory);
+}
+
+.card_verbal {
+  background: var(--bgverbal);
+}
+
+.categ_verbal {
+  color: var(--verbal);
+}
+
+.card_visual {
+  background: var(--bgvisual);
+}
+
+.categ_visual {
+  color: var(--visual);
+}
+
+.categorias_btn {
+    padding: 15px;
+    border-radius: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: var(--branco);
+    background: #343c5c;
+}
