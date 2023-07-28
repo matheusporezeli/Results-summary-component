@@ -16,18 +16,17 @@
 
 O desafio é construir esse componente de resumo de resultados e aproximá-lo o máximo possível do design.
 
-## 📝Requisitos🚧✅
-
 # 📸Images
-![Resultado Parcial](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/8a1f3908-8a17-4545-9295-ee459fdac9a4)
+![Resultado Parcial](https://github.com/matheusporezeli/Results-summary-component/assets/112051389/a3477ca9-5be3-405b-8640-7f7587082b39)
 
 
 ## Desenvolvimento do projeto
 
 Por enquanto estou fazendo com html e css puros mas pretendo refatorar com javascript posteriormente.
 
-A primeira parte que fiz foi o sessão que apresenta o resultado geral, que buscar focar ao máximo pra ficar parecido com o proposta, pois não tinha acesso ao figma, apenas acesso a paleta de cores.
+A primeira parte que fiz foi o sessão que apresenta o resultado geral, que buscar focar ao máximo pra ficar parecido com o proposta, pois não tinha acesso ao figma, apenas acesso a paleta de cores. <br>
+Segunda parte completa e fiz a sessão que apresenta os resultados por categoria, aplicando a coloração correta assim como o background da mesma cor que o texto porém com transparência.
 
 ## Desafios encontrados
 
-Utolizar a propriedade linear-gradient
+Utilizar a propriedade linear-gradient, aplicar o background das categorias utilizando cores no oadrão hsla.
